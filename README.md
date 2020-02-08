@@ -1,7 +1,6 @@
 OVERVIEW
 
-This is a simulation of a rolling ball clock simulator, built for a job interview assignment.  
-Per the test instructions it does not use LCM or permutations, but rather simulates the movement of a set of balls across multiple tracks.
+This is a simulation of a rolling ball clock simulator, built for a job interview assignment.  Per the test instructions it does not use LCM or permutations, but rather simulates the movement of a set of balls across multiple tracks.
 
 
 
